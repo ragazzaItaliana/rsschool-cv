@@ -2,7 +2,7 @@
 #### Student of RS School (Stage 1)
 
 ### Contact information
-- __Phone:__ +90 539935 8282
+- __Phone:__ +90 *** *** ****
 - __E-mail:__ giardino.verde.2023@gmail.com
 - __GitHub profile:__ [ragazza-Italiana](http://www.github.com/ragazzaItaliana)
 
@@ -12,7 +12,7 @@ I like to study and learn something new everyday. I've been studying English, It
 ### Education
 - __University:__ Financial University under the Government of Russian Federation
 - __Courses:__
-    - [Essex University, English Summer School](https://www.essex.ac.uk/)
+    - [Essex University, (English Summer School)](https://www.essex.ac.uk/)
     - [Codecademy](https://codecademy.com)
     - [Stepik](https://stepik.org)
 
