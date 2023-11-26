@@ -12,7 +12,7 @@ I like to study and learn something new everyday. I've been studying English, It
 ### Education
 - __University:__ Financial University under the Government of Russian Federation
 - __Courses:__
-    - English Summer School (Essex University)
+    - [Essex University, English Summer School](https://www.essex.ac.uk/)
     - [Codecademy](https://codecademy.com)
     - [Stepik](https://stepik.org)
 
