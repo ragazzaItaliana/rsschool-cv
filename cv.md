@@ -24,6 +24,7 @@ console.log(w);
  
 ```
 ## __Experience__
+No experience in IT for the present moment.
 
 ## __Education__ 
 - __University:__ Financial University, Moscow, economical faculty
@@ -32,4 +33,4 @@ console.log(w);
   - [codecademy](https://www.codecademy.com)
 
 ## __English__
-__C2__ (I studied English in England, Colchester during my staying in summer camps) 
+__C2__ (I studied English in England during my stay in summer camps) 
