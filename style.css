@@ -1,1 +1,64 @@
-body
+body {
+    background-color: #dae6eb;
+    font-family: sans-serif;
+}
+
+.photo {
+    float: left;
+    margin-right: 2em;
+}
+
+h1 {
+    color: #43474a;
+    margin-bottom: 0.25em;
+}
+
+h2 {
+    color: #43474a;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+h3 {
+    color: #43474a;
+}
+
+a {
+    color: #2f80ed;
+}
+
+.contacts {
+    margin-bottom: 1em;
+}
+
+.contact{
+    display: flex;
+}
+
+.education {
+    margin-top: 1em;
+}
+
+.cv {
+    max-width: 900px;
+    margin: auto;
+}
+
+.footer1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.footer2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.lastname {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
